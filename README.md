@@ -11,7 +11,7 @@ This project is the official website for **Udemig Academy**, a platform offering
 ✅ **Testimonials** – Students share their **success stories** and experiences.  
 ✅ **Contact Us** – A **call to action** for prospective students to reach out and begin their learning journey.  
 
-## 🌍 Technologies Used  
+## 🔧 Technologies Used  
 
 - **HTML** – Markup for structuring the content.  
 - **CSS** – Styling the webpage to create a modern, responsive design.  
